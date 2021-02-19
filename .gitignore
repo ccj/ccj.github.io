@@ -11,4 +11,4 @@ stats.json
 .eslintrc.js
 push.sh
 /coverage
-docs/.vuepress/dist
+aaroot/docs/.vuepress/dist
