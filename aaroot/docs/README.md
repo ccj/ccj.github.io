@@ -10,12 +10,11 @@
 **寻找热爱前端的开发者，一起加入组织，群聊等，一起交流技术，变强 😊**
 
 ## Status
-
-[![ccj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccj)](https://github.com/ccj/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccj&theme=vue&layout=compact)
 
 ![ccj github stats](https://github-readme-stats.vercel.app/api?username=ccj&count_private=true&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccj&theme=vue&layout=compact)
+![ccj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ccj)
 
 
 ## Contact me
