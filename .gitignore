@@ -1,0 +1,14 @@
+/output
+output.tar.gz
+/node_modules
+/aaroot/node_modules
+.idea/
+.DS_Store
+npm-debug.log
+*.swp
+stats.json
+.eslintrc.json
+.eslintrc.js
+push.sh
+/coverage
+docs/.vuepress/dist
