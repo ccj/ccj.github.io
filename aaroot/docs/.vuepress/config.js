@@ -21,13 +21,20 @@ module.exports = {
             },
             {
                 text: 'JS',
-                link: '/pages/js/react'
+                link: '/pages/js/作用域与闭包'
+            },
+            {
+                text: 'interview',
+                link: '/pages/interview/JavaScript'
             }
         ],
         sidebarDepth: 2,
         sidebar: {
             '/pages/js/': getBasicsSidebar(
                 'JS基础'
+            ),
+            '/pages/interview/': getInterviewSidebar(
+                'interview'
             )
         },
         repo: 'ccj',
@@ -50,7 +57,17 @@ function getBasicsSidebar(groupA) {
         {
             title: groupA,
             collapsable: false,
-            children: ['/pages/js/react','/pages/js/m']
+            children: ['/pages/js/作用域与闭包','/pages/js/m']
         }
     ]
-  }
+}
+
+function getInterviewSidebar(group) {
+    return [
+        {
+            title: group,
+            collapsable: false,
+            children: ['/pages/interview/JavaScript']
+        }
+    ]
+}
